@@ -1,8 +1,8 @@
-# ![Leets Organization](https://github.com/Leets-Official/Leets-FE/assets/86355699/e36c8a10-ec72-43cb-a2c1-7777b15ad04f)
+# Leets에 오신 여러분을 환영해요!
 
 ## 1기 프로젝트
 
-### [Gradu [가천대학교 컴퓨터공학과 졸업 인증 서비스]](https://gradu.gachon.ac.kr)
+# [Gradu [가천대학교 컴퓨터공학과 졸업 인증 서비스]](https://gradu.gachon.ac.kr)
 
 - 23년도 2학기부터 공식 사용 예정
 
@@ -76,7 +76,7 @@
 
 <br/>
 
-### [MemoriesSquare [네컷사진 기록 서비스]](https://crazyform.co/)
+# [MemoriesSquare [네컷사진 기록 서비스]](https://crazyform.co/)
 
 ### FE
 
@@ -138,7 +138,7 @@
 
 <br/>
 
-### [Reminiscence [개인 갤러리 서비스]](https://zero100-fe.vercel.app/)
+# [Reminiscence [개인 갤러리 서비스]](https://zero100-fe.vercel.app/)
 
 ### FE
 
