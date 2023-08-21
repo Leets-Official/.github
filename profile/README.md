@@ -2,7 +2,9 @@
 
 ## 1기 프로젝트
 
-# [Gradu [가천대학교 컴퓨터공학과 졸업 인증 서비스]](https://gradu.gachon.ac.kr)
+## [Gradu [가천대학교 컴퓨터공학과 졸업 인증 서비스]]
+
+<img width="321" alt="image" src="https://github.com/Leets-Official/Leets-FE/assets/86355699/0e0f9f63-3c26-429e-9a3d-6f3bb0f53327">
 
 - 23년도 2학기부터 공식 사용 예정
 
@@ -76,7 +78,7 @@
 
 <br/>
 
-# [MemoriesSquare [네컷사진 기록 서비스]](https://crazyform.co/)
+## [MemoriesSquare [네컷사진 기록 서비스]](https://crazyform.co/)
 
 ### FE
 
@@ -138,7 +140,7 @@
 
 <br/>
 
-# [Reminiscence [개인 갤러리 서비스]](https://zero100-fe.vercel.app/)
+## [Reminiscence [개인 갤러리 서비스]](https://zero100-fe.vercel.app/)
 
 ### FE
 
