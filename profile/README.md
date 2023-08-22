@@ -9,7 +9,7 @@
 - 23년도 2학기부터 공식 사용 예정
 
 <details>
-<summary>사용 설명서 확인하기</summary>
+<summary>👉☆그ㄹH듀 ㅅㅏ❅용설띵ㅅㅓ❆ ❤➫화긴ㅎㅏ≫ㄱㅣ<<⬅️</summary>
   <div markdown="1">
 
 ![KakaoTalk_Photo_2023-08-21-12-03-23 001](https://github.com/Leets-Official/Leets-FE/assets/86355699/5a8525d3-68f2-40a6-95f3-5f806db4f51d)
