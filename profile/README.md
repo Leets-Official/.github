@@ -2,30 +2,35 @@
 
 ## 1기 프로젝트
 
-## [Gradu [가천대학교 컴퓨터공학과 졸업 인증 서비스]]
+## [Gradu [가천대학교 컴퓨터공학과 졸업 인증 서비스]](https://gradu.gachon.ac.kr/)
 
 <img width="321" alt="image" src="https://github.com/Leets-Official/Leets-FE/assets/86355699/0e0f9f63-3c26-429e-9a3d-6f3bb0f53327">
 
-- 23년도 2학기부터 공식 사용 예정
+### 공식 사용중
+
+- 23.12.08 ~
+
+<br/>
+<br/>
 
 <details>
 <summary>👉☆그ㄹH듀 ㅅㅏ❅용설띵ㅅㅓ❆ ❤➫화긴ㅎㅏ≫ㄱㅣ<<⬅️</summary>
   <div markdown="1">
 
-![KakaoTalk_Photo_2023-08-21-12-03-23 001](https://github.com/Leets-Official/Leets-FE/assets/86355699/5a8525d3-68f2-40a6-95f3-5f806db4f51d)
-![KakaoTalk_Photo_2023-08-21-12-03-23 002](https://github.com/Leets-Official/Leets-FE/assets/86355699/3c3a64d6-a5cc-4f29-8582-d368a0715395)
-![KakaoTalk_Photo_2023-08-21-12-03-23 003](https://github.com/Leets-Official/Leets-FE/assets/86355699/baa26ee6-3d54-4294-862c-8f7107cc5ce6)
-![KakaoTalk_Photo_2023-08-21-12-03-23 004](https://github.com/Leets-Official/Leets-FE/assets/86355699/0a7fa95f-3afc-4791-8e8c-ae9e8401874c)
-![KakaoTalk_Photo_2023-08-21-12-03-23 005](https://github.com/Leets-Official/Leets-FE/assets/86355699/421ef781-d117-49da-b675-83dc12ed04f8)
-![KakaoTalk_Photo_2023-08-21-12-03-23 006](https://github.com/Leets-Official/Leets-FE/assets/86355699/200ed56c-54fc-4092-aaaf-54ed3fd9dcc3)
-![KakaoTalk_Photo_2023-08-21-12-03-23 007](https://github.com/Leets-Official/Leets-FE/assets/86355699/29abedb1-5c6a-4f81-a721-f2df82863463)
-![KakaoTalk_Photo_2023-08-21-12-03-23 008](https://github.com/Leets-Official/Leets-FE/assets/86355699/d1213f41-ca6a-4774-bf50-21dac73ef157)
-![KakaoTalk_Photo_2023-08-21-12-03-23 009](https://github.com/Leets-Official/Leets-FE/assets/86355699/6c9b8c4c-1a7d-4891-ae92-5b2ff243c00a)
-![KakaoTalk_Photo_2023-08-21-12-03-23 010](https://github.com/Leets-Official/Leets-FE/assets/86355699/0c3b89a2-ea41-4e8c-850e-f912b379b5b1)
-![KakaoTalk_Photo_2023-08-21-12-03-23 011](https://github.com/Leets-Official/Leets-FE/assets/86355699/1de296f8-c351-4d3c-b6bc-9b67c6953fb4)
-![KakaoTalk_Photo_2023-08-21-12-03-23 012](https://github.com/Leets-Official/Leets-FE/assets/86355699/815208a4-e7fe-4b24-994c-698595040b42)
-![KakaoTalk_Photo_2023-08-21-12-03-23 013](https://github.com/Leets-Official/Leets-FE/assets/86355699/d2a36d5d-3c85-412a-8939-5c7e90b1feeb)
-![KakaoTalk_Photo_2023-08-21-12-03-23 014](https://github.com/Leets-Official/Leets-FE/assets/86355699/34c39641-fc59-4859-94d9-91e9799e14c4)
+![001](https://github.com/Leets-Official/Leets-FE/assets/86355699/703031b0-a671-42c6-833d-407cd9b89dc9)
+![002](https://github.com/Leets-Official/Leets-FE/assets/86355699/b7f49238-7e40-45d4-9d14-077747ee7760)
+![003](https://github.com/Leets-Official/Leets-FE/assets/86355699/08e2ac40-afc5-4e96-9b3a-881c6dd2f70b)
+![004](https://github.com/Leets-Official/Leets-FE/assets/86355699/e475ed5d-abb2-46e5-a5d4-967605892fc0)
+![005](https://github.com/Leets-Official/Leets-FE/assets/86355699/387ca7e8-4568-4f15-84ed-7cb4d5b82812)
+![006](https://github.com/Leets-Official/Leets-FE/assets/86355699/8dc3a499-ef36-4786-9122-a2790e106687)
+![007](https://github.com/Leets-Official/Leets-FE/assets/86355699/9369b82b-114c-4980-a59f-b9b93a8772e2)
+![008](https://github.com/Leets-Official/Leets-FE/assets/86355699/323218ce-7def-4d68-97f3-15685dadb7ad)
+![009](https://github.com/Leets-Official/Leets-FE/assets/86355699/ab73c4ae-ea20-4560-8754-5cb54122a8a8)
+![010](https://github.com/Leets-Official/Leets-FE/assets/86355699/571ab570-5438-44c8-b0a6-e4b00368bfb0)
+![011](https://github.com/Leets-Official/Leets-FE/assets/86355699/fb728ce9-249b-4e6c-a87a-51f171bc783b)
+![012](https://github.com/Leets-Official/Leets-FE/assets/86355699/71bd0bdf-a03e-46ea-be26-7cebcc2f3762)
+![013](https://github.com/Leets-Official/Leets-FE/assets/86355699/ccf6dbb8-7759-4430-a9d0-47aa2676f1a6)
+![014](https://github.com/Leets-Official/Leets-FE/assets/86355699/bf5701be-f6ff-469b-b31e-0762d9cce52a)
 
 </div>
 </details>
