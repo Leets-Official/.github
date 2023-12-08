@@ -6,7 +6,7 @@
 
 <img width="321" alt="image" src="https://github.com/Leets-Official/Leets-FE/assets/86355699/0e0f9f63-3c26-429e-9a3d-6f3bb0f53327">
 
-### 공식 사용중
+### 가천대학교 컴퓨터공학과 공식 사용중
 
 - 23.12.08 ~
 
