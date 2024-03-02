@@ -1,5 +1,270 @@
 # Leets에 오신 여러분을 환영해요!
 
+## 2기 프로젝트
+
+## [fling [입학 및 졸업 축하 서비스]](https://www.fling.today/)
+
+### FE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/hayamaster" target="_blank">
+        <img src="https://github.com/hayamaster.png?size=180" alt="김주하" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/eunji0714" target="_blank">
+        <img src="https://github.com/eunji0714.png?size=230" alt="신은지" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/ggome1" target="_blank">
+        <img src="https://github.com/ggome1.png?size=230" alt="박승준" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/hayamaster" target="_blank">
+        김주하
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/eunji0714" target="_blank">
+        신은지
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ggome1" target="_blank">
+        박승준
+      </a>
+    </td>
+  </tr>
+</table>
+
+### BE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/rootTiket" target="_blank">
+        <img src="https://github.com/rootTiket.png?size=180" alt="이근표" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/taeseokyang" target="_blank">
+        <img src="https://github.com/taeseokyang.png?size=230" alt="양태석" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/hoonyworld" target="_blank">
+        <img src="https://github.com/hoonyworld.png?size=230" alt="이동훈" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/leeseobin00" target="_blank">
+        <img src="https://github.com/leeseobin00.png?size=230" alt="이서빈" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/rootTiket" target="_blank">
+        이근표
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/taeseokyang" target="_blank">
+        양태석
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoonyworld" target="_blank">
+        이동훈
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/leeseobin00" target="_blank">
+        이서빈
+      </a>
+    </td>
+  </tr>
+</table>
+
+## [weneed [교내 아카이빙 플랫폼]](https://www.weneed.site/)
+
+### FE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/nayoung3669" target="_blank">
+        <img src="https://github.com/nayoung3669.png?size=180" alt="김나영" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/One-HyeWon" target="_blank">
+        <img src="https://github.com/One-HyeWon.png?size=230" alt="조혜원" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/Minkyu0424" target="_blank">
+        <img src="https://github.com/Minkyu0424.png?size=230" alt="최민규" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/nayoung3669" target="_blank">
+        김나영
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/One-HyeWon" target="_blank">
+        조혜원
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Minkyu0424" target="_blank">
+        최민규
+      </a>
+    </td>
+  </tr>
+</table>
+
+### BE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/jiixon" target="_blank">
+        <img src="https://github.com/jiixon.png?size=180" alt="인지원" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/anxi01" target="_blank">
+        <img src="https://github.com/anxi01.png?size=230" alt="한성민" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/jwnnoh" target="_blank">
+        <img src="https://github.com/jwnnoh.png?size=230" alt="노정완" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/jiixon" target="_blank">
+        인지원
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/anxi01" target="_blank">
+        한성민
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jwnnoh" target="_blank">
+        노정완
+      </a>
+    </td>
+  </tr>
+</table>
+
+## [moodmate [교내 데이트 매칭 서비스]](https://www.moodmate.site/)
+
+### FE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/nayoung3669" target="_blank">
+        <img src="https://github.com/nayoung3669.png?size=180" alt="김나영" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/One-HyeWon" target="_blank">
+        <img src="https://github.com/One-HyeWon.png?size=230" alt="조혜원" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/eunji0714" target="_blank">
+        <img src="https://github.com/eunji0714.png?size=230" alt="신은지" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/nayoung3669" target="_blank">
+        김나영
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/One-HyeWon" target="_blank">
+        조혜원
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eunji0714" target="_blank">
+        신은지
+      </a>
+    </td>
+  </tr>
+</table>
+
+### BE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/jiixon" target="_blank">
+        <img src="https://github.com/jiixon.png?size=180" alt="인지원" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/MinhoJJang" target="_blank">
+        <img src="https://github.com/MinhoJJang.png?size=230" alt="장민호" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/hoonyworld" target="_blank">
+        <img src="https://github.com/hoonyworld.png?size=230" alt="이동훈" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/leeseobin00" target="_blank">
+        <img src="https://github.com/leeseobin00.png?size=230" alt="이서빈" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/jiixon" target="_blank">
+        인지원
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/MinhoJJang" target="_blank">
+        장민호
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hoonyworld" target="_blank">
+        이동훈
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/leeseobin00" target="_blank">
+        이서빈
+      </a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>1기 프로젝트</summary>
+
 ## 1기 프로젝트
 
 ## [Gradu [가천대학교 컴퓨터공학과 졸업 인증 서비스]](https://gradu.gachon.ac.kr/)
@@ -46,7 +311,7 @@
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/gangmanm" target="_blank">
-        <img src="https://github.com/gangmanm.png?size=180" alt="이도경" />
+        <img src="https://github.com/gangmanm.png?size=230" alt="이도경" />
       </a>
     </td>
   </tr>
@@ -236,3 +501,5 @@
     </td>
   </tr>
 </table>
+
+</details>
