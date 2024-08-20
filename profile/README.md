@@ -1,5 +1,196 @@
 # Leets에 오신 여러분을 환영해요!
 
+![Frame 76](https://github.com/user-attachments/assets/abc1c2d7-fcfb-4e8d-85b6-dfd9fce3235a)
+
+<br/>
+
+## About [Leets](https://instagram.com/leets.official)
+> 우리는 디자인이 우리의 삶을 더욱 풍요롭게 만들고, 서비스가 그 가치를 높일 수 있다고 깊이 믿습니다.
+
+**Leets**는 네트워킹과 협업을 통한 공동체 기반의 성장을 목표로 하는 **프로젝트 기반** 동아리입니다.
+
+학기 중에 쌓은 성장을 바탕으로, 방학 동안 자신이 원하는 서비스를 직접 구현합니다.​
+
+<br/>
+
+## 3기 프로젝트
+
+## [Weeth [Leets 동아리 관리 서비스]](https://www.weeth.site)
+
+### FE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/yezzan9" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/92977621?v=4" alt="박예진" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/hyewonimdang" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/154235509?v=4" alt="양혜원" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/JIN921" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/84452202?v=4" alt="이유진" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/yezzan9" target="_blank">
+        박예진
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/hyewonimdang" target="_blank">
+        양혜원
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JIN921" target="_blank">
+        이유진
+      </a>
+    </td>
+  </tr>
+</table>
+
+### BE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/hyxklee" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/77369759?v=4" alt="이강혁" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/KoungQ" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/96408601?v=4" alt="김경규" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/jj0526" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/77379157?v=4" alt="전시현" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/huncozyboy" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/163561527?v=4" alt="이지훈" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/hyxklee" target="_blank">
+        이강혁
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/KoungQ" target="_blank">
+        김경규
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jj0526" target="_blank">
+        전시현
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/huncozyboy" target="_blank">
+        이지훈
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## [Commitato [1일 1커밋 동기부여 서비스]](https://www.commitato.site/)
+
+### FE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/dahhyeon" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/134191693?v=4" alt="계다현" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/woneeeee" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/143994508?v=4" alt="김지원" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/dahhyeon" target="_blank">
+        계다현
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/woneeeee" target="_blank">
+        김지원
+      </a>
+    </td>
+  </tr>
+</table>
+
+### BE
+
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/yechan-kim" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/60172300?v=4" alt="김예찬" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/1winhyun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/140399766?v=4" alt="한승현" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/leejuae" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/51390115?v=4" alt="이주애" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/zzu-yaaa" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/110540359?v=4" alt="이주연" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/yechan-kim" target="_blank">
+        김예찬
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/1winhyun" target="_blank">
+        한승현
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/leejuae" target="_blank">
+        이주애
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zzu-yaaa" target="_blank">
+        이주연
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+<summary>2기 프로젝트</summary>
 ## 2기 프로젝트
 
 ## [fling [입학 및 졸업 축하 서비스]](https://www.fling.today/)
@@ -265,6 +456,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 <br/>
 
