@@ -191,6 +191,7 @@
 
 <details>
 <summary>2기 프로젝트</summary>
+  
 ## 2기 프로젝트
 
 ## [fling [입학 및 졸업 축하 서비스]](https://www.fling.today/)
