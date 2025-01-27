@@ -1,6 +1,6 @@
 # Leets에 오신 여러분을 환영해요!
 
-[![image](https://github.com/user-attachments/assets/875bfe70-547c-4fcc-bf90-f24fe9d60c45)](https://www.leets.land/projects)
+[![newleets](https://github.com/user-attachments/assets/952cc775-40fa-414a-b9b0-f872945c0c18)](https://www.leets.land)
 
 
 
