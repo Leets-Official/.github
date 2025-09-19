@@ -1,5 +1,4 @@
-[![newleets](https://github.com/user-attachments/assets/485e15d1-8272-49b7-8f25-c3d6f20d4e66)](https://www.leets.land)
-
+[![newleets](https://github.com/user-attachments/assets/0089ba4e-54bd-4810-88bc-c340b6abedec)](https://www.leets.land)
 
 
 <br/>
