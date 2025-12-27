@@ -1,17 +1,8 @@
-[![newleets](https://github.com/user-attachments/assets/0089ba4e-54bd-4810-88bc-c340b6abedec)](https://www.leets.land)
-
-
-<br/>
+[![newleets](https://github.com/user-attachments/assets/cccbfcd4-230e-4b6c-a436-c3c7cec7fd67)](https://www.leets.land)
 
 ## About [Leets](https://instagram.com/leets.official)
-> 우리는 디자인이 우리의 삶을 더욱 풍요롭게 만들고, 서비스가 그 가치를 높일 수 있다고 깊이 믿습니다.
+### 함께 도전하며, 우리의 가치를 증명하는 곳
 
-**Leets**는 네트워킹과 협업을 통한 공동체 기반의 성장을 목표로 하는 **프로젝트 기반** 동아리입니다.
+**Leets**는 가천대학교 유일 **IT 창업** 동아리입니다.
 
-학기 중에 쌓은 성장을 바탕으로, 방학 동안 자신이 원하는 서비스를 직접 구현합니다.​
-
-<br/>
-
-## 프로젝트
-
-[![image](https://github.com/user-attachments/assets/5d48f240-bba4-4c1d-a81c-231cfe2b52de)](https://www.leets.land/project)
+가천대학교 내에서 IT 서비스에 관심을 가진 이들의 첫 도전이 되고, 세상을 넓게 바라볼 수 있는 시야를 만들어주는 동아리가 되고자 합니다.​
